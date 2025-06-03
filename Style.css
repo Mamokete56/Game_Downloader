@@ -1,0 +1,31 @@
+/style>
+</head>
+<body>
+    <header>
+        <h1>Game Downloader</h1>
+    </header>
+
+    <div class="container">
+        <!-- Game 1 -->
+        <div class="game">
+            <h2>Super Platformer</h2>
+            <p>A fun 2D platformer game with levels full of challenges.</p>
+            <a href="games/super-platformer.zip" class="download-btn" download>Download</a>
+        </div>
+
+        <!-- Game 2 -->
+        <div class="game">
+            <h2>Space Shooter</h2>
+            <p>Blast your way through waves of alien invaders in space!</p>
+            <a href="games/space-shooter.zip" class="download-btn" download>Download</a>
+        </div>
+
+        <!-- Game 3 -->
+        <div class="game">
+            <h2>Racing Thunder</h2>
+            <p>High-speed car racing game with amazing graphics and sound.</p>
+            <a href="games/racing-thunder.zip" class="download-btn" download>Download</a>
+        </div>
+    </div>
+</body>
+</html>
